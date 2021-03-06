@@ -1,3 +1,7 @@
+# TBk Mini
+
+A Dactyl Manuform Mini. Silent and compact, with per-key RGB.
+
 
 # Support me on Patreon
 
@@ -44,6 +48,9 @@ If you want to print the case yourself, you can also get just the electronics Ki
 
 
 # Sourcing the case
+
+The STL, STEP and Fusion files are included in this Github.
+Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
 
 For sourcing the case, you have two options:
 
