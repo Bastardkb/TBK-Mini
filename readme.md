@@ -22,6 +22,8 @@ Parts list:
 
 If you want RGB, you will also need:
 
+| Part name  | Amount |  Link |
+| ------------- | ------------- | ------------- |
 | FlexStrip cables | 6  | Farnell |
 | 28AWG Cables | 6  | Aliexpress |
 | SK6812 Mini-E LEDs | 42  | Aliexpress |
