@@ -1,4 +1,10 @@
 
+# Support me on Patreon
+
+If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
+
+I post regular updates and hindsight on my work. This helps a lot !
+
 # Sourcing the components
 
 For sourcing the components, you have two options:
@@ -51,6 +57,10 @@ https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dac
 
 You can get a full Kit, including case and all PCBs and electronics required on the shop:
 https://bastardkb.com/
+
+The cases are printed at 0.15 mm layer height using Prusament Galaxy Black on a Prusa MK3s.
+
+I check and post-process each case individually to make sure it matches very high quality standards.
 
 # Build guide
 
