@@ -80,6 +80,11 @@ I check and post-process each case individually to make sure it matches very hig
 Please find detailed build instructions here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031340-Kit-contents-and-required-tools
 
+# Finding help
+
+- Discord: https://bastardkb.com/discord
+- Website: https://bastardkb.com/
+- Docs: https://docs.bastardkb.com
 
 # License
 
