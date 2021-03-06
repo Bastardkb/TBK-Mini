@@ -17,6 +17,8 @@ For sourcing the components, you have two options:
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
+The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not.
+
 Parts list:
 
 | Part name  | Amount |  Link |
