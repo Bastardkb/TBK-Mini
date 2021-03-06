@@ -1,7 +1,9 @@
-# TBk Mini
+# TBK Mini
 
 A Dactyl Manuform Mini. Silent and compact, with per-key RGB.
 
+![](pics/4.png)
+![](pics/5.JPG)
 
 # Support me on Patreon
 
