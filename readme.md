@@ -13,8 +13,6 @@ I post regular updates and hindsight on my work. I work full time on keyboard in
 
 # Sourcing the components
 
-For sourcing the components, you have two options:
-
 ## Electronic components
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
