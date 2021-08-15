@@ -61,6 +61,11 @@ https://docs.bastardkb.com/hc/en-us/articles/360020031340-Kit-contents-and-requi
 - Website: https://bastardkb.com/
 - Docs: https://docs.bastardkb.com
 
+
+# Forks
+
+- [With loligagger holder for nice!nanos](https://github.com/nathanielks/TBK-Mini) - reset switch and power switch
+
 # Support me on Patreon
 
 If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
