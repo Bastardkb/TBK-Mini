@@ -32,13 +32,13 @@ If you don't want to source the flexible PCBs, you can also use either amoebas o
 
 If you want RGB, you will also need:
 
-| Part name          | Amount    | Discription       | Format             |
-| ------------------ | --------- | ----------------- | ------------------ |
-| SK6812 Mini-E LEDs | 42        |                   |                    |
-| Capacitor, 1uF     | 4         |                   | 1206               |
-| Resistor, 330Ohms  | 4         |                   | 1206               |
-| Wires              |           | Black, Red, Color | 28 AWG recommended |
-| Ribbon cables      | Flexstrip |                   |                    |
+| Part name          | Amount    | Format                                |
+| ------------------ | --------- | ------------------------------------- |
+| SK6812 Mini-E LEDs | 42        |                                       |
+| Capacitor, 1uF     | 4         | 1206                                  |
+| Resistor, 330Ohms  | 4         | 1206                                  |
+| Wires              |           | 28 AWG recommended, Black, Red, Color |
+| Ribbon cables      | Flexstrip |                                       |
 
 ## Print the case
 
