@@ -20,7 +20,7 @@ Parts list:
 | Elite-C                           | 2      |                                                                                            |
 | Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                                |
 | SOD123 Diodes                     | 42     |                                                                                            |
-| Ribbon cables                     | 34     | Farnell, Aliexpress                                                                        |
+| Ribbon cables Flexstrip           | 34     | Farnell, Aliexpress                                                                        |
 | M4 8mm Torx Screw                 | 14     | Conrad                                                                                     |
 | M4 screw insert, M4 X D6.0 X L5.0 | 14     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
 | Audio jack, SMD                   | 2      |                                                                                            |
@@ -32,13 +32,13 @@ If you don't want to source the flexible PCBs, you can also use either amoebas o
 
 If you want RGB, you will also need:
 
-| Part name          | Amount    | Format                                |
-| ------------------ | --------- | ------------------------------------- |
-| SK6812 Mini-E LEDs | 42        |                                       |
-| Capacitor, 1uF     | 4         | 1206                                  |
-| Resistor, 330Ohms  | 4         | 1206                                  |
-| Wires              |           | 28 AWG recommended, Black, Red, Color |
-| Ribbon cables      | Flexstrip |                                       |
+| Part name               | Amount | Format                                |
+| ----------------------- | ------ | ------------------------------------- |
+| SK6812 Mini-E LEDs      | 42     |                                       |
+| Capacitor, 1uF          | 4      | 1206                                  |
+| Resistor, 330Ohms       | 4      | 1206                                  |
+| Wires                   |        | 28 AWG recommended, Black, Red, Color |
+| Ribbon cables Flexstrip | 6      |                                       |
 
 ## Print the case
 
