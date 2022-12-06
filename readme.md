@@ -44,6 +44,8 @@ Feel free to modify them at length. The files are on a non-commercial license, s
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
 
+There are also multiple tents types available, in the `files/tents` folder. The recommended one (easiest to print and strongest) is the alien one.
+
 ## Get a kit from BastardKB
 
 You can also get a full Kit, including case and all PCBs and electronics required on the shop:
