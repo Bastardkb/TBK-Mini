@@ -46,6 +46,9 @@ https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dac
 
 There are also multiple tents types available, in the `files/tents` folder. The recommended one (easiest to print and strongest) is the `alien` one.
 
+In case you want to add an additional layer of protection to the tent of your choice, you can use the `files/tents/plate_protection_layer.stl` file to add an additional layer interface between the case and the tent.
+
+#
 ## Get a kit from BastardKB
 
 You can also get a full Kit, including case and all PCBs and electronics required on the shop:
