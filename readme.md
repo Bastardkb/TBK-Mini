@@ -46,8 +46,6 @@ https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dac
 
 There are also multiple tents types available, in the `files/tents` folder. The recommended one (easiest to print and strongest) is the `alien` one.
 
-If you have trouble getting the voronoi plate to stick, you can use the `files/plate_protection_layer.stl` file to add a single layer interface. It can be printed with a transparent filament to let the led light pass though.
-
 ## Get a kit from BastardKB
 
 You can also get a full Kit, including case and all PCBs and electronics required on the shop:
