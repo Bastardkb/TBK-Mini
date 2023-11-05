@@ -38,12 +38,12 @@ If you want RGB, you will also need:
 
 ## Print the case
 
-The STL, STEP and Fusion files are included in this Github.
-Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
+The STL files are included in this Github repository.
 
 Please find detailed instructions on how to print the case on the online instructions linked below.
 
-There are also multiple tents types available, in the `files/tents` folder. The recommended one (easiest to print and strongest) is the `alien` one.
+There are optional tents, use the same ones as for the [Charybdis Mini 3x6](github.com/bastardkb/charybdis).
+
 
 ## Get a kit from BastardKB
 
