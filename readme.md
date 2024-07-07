@@ -42,7 +42,7 @@ The STL files are included in this Github repository.
 
 Please find detailed instructions on how to print the case on the online instructions linked below.
 
-There are optional tents, use the same ones as for the [Charybdis Mini 3x6](github.com/bastardkb/charybdis).
+There are optional tents, use the same ones as for the [Charybdis Mini 3x6](https://github.com/bastardkb/charybdis).
 
 
 ## Get a kit from BastardKB
