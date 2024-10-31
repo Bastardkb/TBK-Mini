@@ -68,12 +68,6 @@ You can find detailed instruction on the online documentation linked below. For 
 
 - [With loligagger holder for nice!nanos](https://github.com/nathanielks/TBK-Mini) - reset switch and power switch
 
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
 
 # License
 
